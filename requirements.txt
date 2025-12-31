@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+sentence-transformers
+scikit-learn
+torch
+pandas
+numpy
+plotly
+tf-keras
+tqdm
+PyPDF2
+pdfplumber
+python-docx

@@ -1,0 +1,8 @@
+{
+  "resume_id": 1023,
+  "skills": ["Python", "Machine Learning", "Deep Learning"],
+  "education": "B.Tech in Computer Science",
+  "experience": "2 years as ML Engineer",
+  "projects": ["Resume Analyzer", "DR Detection"],
+  "certifications": ["AWS ML Specialty"]
+}

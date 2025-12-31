@@ -1,0 +1,23 @@
+{
+  "Programming": {
+    "Python": ["python", "py"],
+    "Java": ["java"],
+    "C++": ["c++", "cpp"]
+  },
+  "Machine Learning": {
+    "Machine Learning": ["ml", "machine learning"],
+    "Deep Learning": ["dl", "deep learning"],
+    "Computer Vision": ["cv", "computer vision"],
+    "NLP": ["nlp", "natural language processing"]
+  },
+  "Frameworks": {
+    "TensorFlow": ["tensorflow", "tf"],
+    "PyTorch": ["pytorch", "torch"],
+    "Scikit-learn": ["scikit-learn", "sklearn"]
+  },
+  "Tools": {
+    "Git": ["git"],
+    "Docker": ["docker"],
+    "AWS": ["aws", "amazon web services"]
+  }
+}
